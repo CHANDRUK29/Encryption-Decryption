@@ -1,0 +1,12 @@
+# node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+*.log
+
+#Enn and Secrets
+*.env
+*.pem
+
+#Code Editor Settings
+.vscode
