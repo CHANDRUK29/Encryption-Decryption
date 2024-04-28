@@ -12,7 +12,7 @@ This consists an example for both client side and server side implementation.
 Clone the project
 
 ```bash
-  git clone https://github.com/zealeye-ai-tech-solutions-pvt-ltd/api-encryption-decryption.git
+  git clone https://github.com/CHANDRUK29/Encryption-Decryption/tree/feature/ck
 ```
 
 Install Client dependencies
